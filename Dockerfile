@@ -2,6 +2,8 @@
 FROM centos:7.6.1810
 
 LABEL maintainer="Jonathan Gao <gsmlg.com@gmail.com>"
+
+LABEL org.opencontainers.image.source="https://github.com/gsmlg-ci/dell-openmanage"
 #MAINTAINER Steve Kamerman "https://github.com/kamermans"
 #MAINTAINER Jose De la Rosa "https://github.com/jose-delarosa"
 
